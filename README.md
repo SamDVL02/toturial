@@ -1,2 +1,2 @@
 # toturial
-George Massamu
+George Massamu the new developer.
